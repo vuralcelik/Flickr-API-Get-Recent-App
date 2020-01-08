@@ -1,0 +1,6 @@
+framework module Pods_Appcent_Flickr_API_Get_Recent {
+  umbrella header "Pods-Appcent Flickr API Get Recent-umbrella.h"
+
+  export *
+  module * { export * }
+}
