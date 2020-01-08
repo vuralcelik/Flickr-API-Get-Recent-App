@@ -10,6 +10,6 @@
                 
 1. Download the app from github.
 2. Go to project folder on terminal and install the pods.
-####pod install
+    `$ pod install`
 3. Run the app.Have fun!
                 
