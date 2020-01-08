@@ -5,7 +5,7 @@
     The Flickr-API-Get-Recent-App making gracefully job for us.
     Flickr-API-Get-Recent-App fetching the "Recent Photos" from Flicker API.
     
-#### How can clone the Flickr-API-Get-Recent-App ?
+#### How can i clone the Flickr-API-Get-Recent-App ?
 
                 
 1. Download the app from github.
